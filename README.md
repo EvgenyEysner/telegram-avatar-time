@@ -32,3 +32,8 @@ touch .env
 python3 main.py
 ```
 
+### Dependencies for Linux Users
+
+```bash
+sudo apt-get -y install python3-pyqt5
+```
