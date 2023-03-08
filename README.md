@@ -14,6 +14,15 @@ python3 -m venv .venv
 . .venv/bin/activate
 ```
 
+### Install Dependencies
+```bash
+pip install pipenv
+```
+
+```bash
+pipenv install
+```
+
 ### Access to Telegram login from code:
     https://my.telegram.org/auth
 
